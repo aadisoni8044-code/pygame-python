@@ -9,5 +9,5 @@ while True:
     led.value(0)
     sleep(0.5)
 
-#LED = ON ---------------------|| file esp.py
+#LED = ON ---------------------|| 
 #LED = OFF
