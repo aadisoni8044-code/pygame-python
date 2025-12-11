@@ -8,6 +8,4 @@ while True:
     sleep(0.5)
     led.value(0)
     sleep(0.5)
-
-#LED = ON ---------------------|| 
-#LED = OFF
+#micro python
